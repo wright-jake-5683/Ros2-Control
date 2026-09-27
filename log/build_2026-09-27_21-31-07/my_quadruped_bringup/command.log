@@ -1,0 +1,6 @@
+Invoking command in '/home/user/ros2_ws/build/my_quadruped_bringup': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/my_quadruped_bringup -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/my_quadruped_bringup
+Invoked command in '/home/user/ros2_ws/build/my_quadruped_bringup' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/my_quadruped_bringup -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/my_quadruped_bringup
+Invoking command in '/home/user/ros2_ws/build/my_quadruped_bringup': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_quadruped_bringup -- -j8 -l8
+Invoked command in '/home/user/ros2_ws/build/my_quadruped_bringup' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_quadruped_bringup -- -j8 -l8
+Invoking command in '/home/user/ros2_ws/build/my_quadruped_bringup': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_quadruped_bringup
+Invoked command in '/home/user/ros2_ws/build/my_quadruped_bringup' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_quadruped_bringup

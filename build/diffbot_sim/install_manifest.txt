@@ -1,0 +1,17 @@
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/launch/diffbot_controllers.launch.py
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/launch/diffbot_spawn.launch.py
+/home/user/ros2_ws/install/diffbot_sim/share/ament_index/resource_index/package_run_dependencies/diffbot_sim
+/home/user/ros2_ws/install/diffbot_sim/share/ament_index/resource_index/parent_prefix_path/diffbot_sim
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/ament_prefix_path.sh
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/ament_prefix_path.dsv
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/path.sh
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/path.dsv
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.bash
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.sh
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.zsh
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.dsv
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/package.dsv
+/home/user/ros2_ws/install/diffbot_sim/share/ament_index/resource_index/packages/diffbot_sim
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/cmake/diffbot_simConfig.cmake
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/cmake/diffbot_simConfig-version.cmake
+/home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/package.xml

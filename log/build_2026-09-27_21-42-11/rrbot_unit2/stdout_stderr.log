@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/ament_index/resource_index/package_run_dependencies/rrbot_unit2
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/ament_index/resource_index/parent_prefix_path/rrbot_unit2
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/environment/ament_prefix_path.sh
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/environment/path.sh
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/environment/path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/local_setup.bash
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/local_setup.sh
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/local_setup.zsh
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/local_setup.dsv
+-- Installing: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/package.dsv
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/ament_index/resource_index/packages/rrbot_unit2
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/cmake/rrbot_unit2Config.cmake
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/cmake/rrbot_unit2Config-version.cmake
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/package.xml
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/urdf
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/urdf/rrbot.xacro
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/urdf/materials.xacro
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/urdf/rrbot.gazebo
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/rviz
+-- Up-to-date: /home/user/ros2_ws/install/rrbot_unit2/share/rrbot_unit2/rviz/unit2.rviz

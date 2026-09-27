@@ -1,0 +1,29 @@
+[0.289s] Invoking command in '/home/user/ros2_ws/build/spawn_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_robot -- -j8 -l8
+[0.622s] Invoked command in '/home/user/ros2_ws/build/spawn_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_robot -- -j8 -l8
+[0.623s] Invoking command in '/home/user/ros2_ws/build/spawn_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_robot
+[0.664s] -- Install configuration: ""
+[0.664s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/launch
+[0.665s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/launch/spawn_rrbot.launch.py
+[0.665s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/launch/rrbot_controller_manager.launch.py
+[0.666s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/launch/spawn_entity_client.py
+[0.666s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/launch/spawn_diffbot.launch.py
+[0.666s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/worlds
+[0.666s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/worlds/empty.world
+[0.667s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/lib/spawn_robot/spawn_entity_client.py
+[0.667s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/environment/spawn_robot.dsv
+[0.667s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/ament_index/resource_index/package_run_dependencies/spawn_robot
+[0.667s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/ament_index/resource_index/parent_prefix_path/spawn_robot
+[0.668s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/environment/ament_prefix_path.sh
+[0.668s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/environment/ament_prefix_path.dsv
+[0.669s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/environment/path.sh
+[0.669s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/environment/path.dsv
+[0.669s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/local_setup.bash
+[0.669s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/local_setup.sh
+[0.670s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/local_setup.zsh
+[0.673s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/local_setup.dsv
+[0.673s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/package.dsv
+[0.673s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/ament_index/resource_index/packages/spawn_robot
+[0.673s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/cmake/spawn_robotConfig.cmake
+[0.673s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/cmake/spawn_robotConfig-version.cmake
+[0.673s] -- Up-to-date: /home/user/ros2_ws/install/spawn_robot/share/spawn_robot/package.xml
+[0.783s] Invoked command in '/home/user/ros2_ws/build/spawn_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_robot

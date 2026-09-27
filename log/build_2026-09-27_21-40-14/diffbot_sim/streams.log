@@ -1,0 +1,23 @@
+[0.125s] Invoking command in '/home/user/ros2_ws/build/diffbot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/diffbot_sim -- -j8 -l8
+[0.973s] Invoked command in '/home/user/ros2_ws/build/diffbot_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/diffbot_sim -- -j8 -l8
+[0.974s] Invoking command in '/home/user/ros2_ws/build/diffbot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/diffbot_sim
+[1.024s] -- Install configuration: ""
+[1.024s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/launch
+[1.024s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/launch/diffbot_controllers.launch.py
+[1.024s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/launch/diffbot_spawn.launch.py
+[1.025s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/ament_index/resource_index/package_run_dependencies/diffbot_sim
+[1.025s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/ament_index/resource_index/parent_prefix_path/diffbot_sim
+[1.025s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/ament_prefix_path.sh
+[1.025s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/ament_prefix_path.dsv
+[1.025s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/path.sh
+[1.025s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/path.dsv
+[1.026s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.bash
+[1.026s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.sh
+[1.026s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.zsh
+[1.026s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.dsv
+[1.026s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/package.dsv
+[1.027s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/ament_index/resource_index/packages/diffbot_sim
+[1.027s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/cmake/diffbot_simConfig.cmake
+[1.027s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/cmake/diffbot_simConfig-version.cmake
+[1.027s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/package.xml
+[1.148s] Invoked command in '/home/user/ros2_ws/build/diffbot_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/diffbot_sim

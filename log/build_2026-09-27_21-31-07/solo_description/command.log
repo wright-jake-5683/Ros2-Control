@@ -1,0 +1,6 @@
+Invoking command in '/home/user/ros2_ws/build/solo_description': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit6/solo_description -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/solo_description
+Invoked command in '/home/user/ros2_ws/build/solo_description' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit6/solo_description -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/solo_description
+Invoking command in '/home/user/ros2_ws/build/solo_description': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/solo_description -- -j8 -l8
+Invoked command in '/home/user/ros2_ws/build/solo_description' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/solo_description -- -j8 -l8
+Invoking command in '/home/user/ros2_ws/build/solo_description': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/solo_description
+Invoked command in '/home/user/ros2_ws/build/solo_description' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/solo_description

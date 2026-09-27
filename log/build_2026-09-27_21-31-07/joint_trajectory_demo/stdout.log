@@ -1,0 +1,45 @@
+running egg_info
+creating ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info
+writing ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/dependency_links.txt
+writing entry points to ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/entry_points.txt
+writing requirements to ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/requires.txt
+writing top-level names to ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/top_level.txt
+writing manifest file '../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/SOURCES.txt'
+reading manifest file '../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/ros2_ws/build/joint_trajectory_demo/build
+creating /home/user/ros2_ws/build/joint_trajectory_demo/build/lib
+creating /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo
+copying joint_trajectory_demo/publisher_forward_position_controller.py -> /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo
+copying joint_trajectory_demo/__init__.py -> /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo
+copying joint_trajectory_demo/publisher_joint_trajectory_controller.py -> /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo
+running install
+running install_lib
+creating /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo
+copying /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo/publisher_forward_position_controller.py -> /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo
+copying /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo/__init__.py -> /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo
+copying /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo/publisher_joint_trajectory_controller.py -> /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo
+byte-compiling /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo/publisher_forward_position_controller.py to publisher_forward_position_controller.cpython-312.pyc
+byte-compiling /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo/publisher_joint_trajectory_controller.py to publisher_joint_trajectory_controller.cpython-312.pyc
+running install_data
+creating /home/user/ros2_ws/install/joint_trajectory_demo/share/ament_index
+creating /home/user/ros2_ws/install/joint_trajectory_demo/share/ament_index/resource_index
+creating /home/user/ros2_ws/install/joint_trajectory_demo/share/ament_index/resource_index/packages
+copying resource/joint_trajectory_demo -> /home/user/ros2_ws/install/joint_trajectory_demo/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo
+copying launch/test_joint_trajectory_controller.launch.py -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo
+copying launch/joint_trajectory_publisher.launch.py -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo
+copying launch/test_forward_position_controller.launch.py -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo
+creating /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo/config
+copying config/joint_trajectory_publisher.yaml -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo/config
+copying config/forward_position_publisher.yaml -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo/config
+running install_egg_info
+Copying ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info to /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo-0.0.1-py3.12.egg-info
+running install_scripts
+Installing publisher_forward_position_controller script to /home/user/ros2_ws/install/joint_trajectory_demo/lib/joint_trajectory_demo
+Installing publisher_joint_trajectory_controller script to /home/user/ros2_ws/install/joint_trajectory_demo/lib/joint_trajectory_demo
+writing list of installed files to '/home/user/ros2_ws/build/joint_trajectory_demo/install.log'

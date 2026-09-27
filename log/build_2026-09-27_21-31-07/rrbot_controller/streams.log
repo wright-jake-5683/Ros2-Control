@@ -1,0 +1,73 @@
+[0.063s] Invoking command in '/home/user/ros2_ws/build/rrbot_controller': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/rrbot_controller -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/rrbot_controller
+[0.181s] -- The C compiler identification is GNU 13.3.0
+[0.283s] -- The CXX compiler identification is GNU 13.3.0
+[0.307s] -- Detecting C compiler ABI info
+[0.469s] -- Detecting C compiler ABI info - done
+[0.489s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.489s] -- Detecting C compile features
+[0.490s] -- Detecting C compile features - done
+[0.515s] -- Detecting CXX compiler ABI info
+[0.679s] -- Detecting CXX compiler ABI info - done
+[0.699s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.700s] -- Detecting CXX compile features
+[0.701s] -- Detecting CXX compile features - done
+[0.711s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.978s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.183s] -- Found control_msgs: 5.5.0 (/opt/ros/jazzy/share/control_msgs/cmake)
+[1.307s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.347s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.393s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.443s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.847s] -- Found controller_interface: 4.39.2 (/opt/ros/jazzy/share/controller_interface/cmake)
+[1.980s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.103s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.114s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.181s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.292s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.298s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.326s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[2.332s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.347s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.363s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.072s] -- Found example_interfaces: 0.12.0 (/opt/ros/jazzy/share/example_interfaces/cmake)
+[3.260s] -- Configuring done (3.2s)
+[3.308s] -- Generating done (0.0s)
+[3.317s] -- Build files have been written to: /home/user/ros2_ws/build/rrbot_controller
+[3.342s] Invoked command in '/home/user/ros2_ws/build/rrbot_controller' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/rrbot_controller -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/rrbot_controller
+[3.342s] Invoking command in '/home/user/ros2_ws/build/rrbot_controller': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_controller -- -j8 -l8
+[3.486s] [ 50%] [32mBuilding CXX object CMakeFiles/rrbot_controller.dir/src/rrbot_controller.cpp.o[0m
+[15.097s] [100%] [32m[1mLinking CXX shared library librrbot_controller.so[0m
+[15.513s] [100%] Built target rrbot_controller
+[15.524s] Invoked command in '/home/user/ros2_ws/build/rrbot_controller' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_controller -- -j8 -l8
+[15.525s] Invoking command in '/home/user/ros2_ws/build/rrbot_controller': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_controller
+[15.534s] -- Install configuration: ""
+[15.534s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/rrbot_controller.xml
+[15.534s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/lib/librrbot_controller.so
+[15.541s] -- Set non-toolchain portion of runtime path of "/home/user/ros2_ws/install/rrbot_controller/lib/librrbot_controller.so" to ""
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/include
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/include/rrbot_controller
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/include/rrbot_controller/rrbot_controller.hpp
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller//config
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller//config/rrbot_controllers_custom.yaml
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/library_path.sh
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/library_path.dsv
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/ament_index/resource_index/package_run_dependencies/rrbot_controller
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/ament_index/resource_index/parent_prefix_path/rrbot_controller
+[15.542s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/ament_prefix_path.sh
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/ament_prefix_path.dsv
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/path.sh
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/path.dsv
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/local_setup.bash
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/local_setup.sh
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/local_setup.zsh
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/local_setup.dsv
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/package.dsv
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/ament_index/resource_index/packages/rrbot_controller
+[15.543s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/ament_index/resource_index/controller_interface__pluginlib__plugin/rrbot_controller
+[15.544s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/ament_cmake_export_include_directories-extras.cmake
+[15.544s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/ament_cmake_export_libraries-extras.cmake
+[15.544s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+[15.544s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/rrbot_controllerConfig.cmake
+[15.544s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/rrbot_controllerConfig-version.cmake
+[15.544s] -- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/package.xml
+[15.546s] Invoked command in '/home/user/ros2_ws/build/rrbot_controller' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_controller

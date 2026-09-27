@@ -1,0 +1,17 @@
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup//launch/start_controllers.launch.py
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup//config/solo8_controller_config.yaml
+/home/user/ros2_ws/install/my_quadruped_bringup/share/ament_index/resource_index/package_run_dependencies/my_quadruped_bringup
+/home/user/ros2_ws/install/my_quadruped_bringup/share/ament_index/resource_index/parent_prefix_path/my_quadruped_bringup
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/environment/ament_prefix_path.sh
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/environment/ament_prefix_path.dsv
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/environment/path.sh
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/environment/path.dsv
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/local_setup.bash
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/local_setup.sh
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/local_setup.zsh
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/local_setup.dsv
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/package.dsv
+/home/user/ros2_ws/install/my_quadruped_bringup/share/ament_index/resource_index/packages/my_quadruped_bringup
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/cmake/my_quadruped_bringupConfig.cmake
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/cmake/my_quadruped_bringupConfig-version.cmake
+/home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/package.xml

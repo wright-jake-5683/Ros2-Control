@@ -1,0 +1,50 @@
+[0.034s] Invoking command in '/home/user/ros2_ws/build/diffbot_sim': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit5/diffbot_sim -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/diffbot_sim
+[0.618s] -- The C compiler identification is GNU 13.3.0
+[0.618s] -- The CXX compiler identification is GNU 13.3.0
+[0.618s] -- Detecting C compiler ABI info
+[0.618s] -- Detecting C compiler ABI info - done
+[0.618s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.619s] -- Detecting C compile features
+[0.619s] -- Detecting C compile features - done
+[0.619s] -- Detecting CXX compiler ABI info
+[0.619s] -- Detecting CXX compiler ABI info - done
+[0.619s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.620s] -- Detecting CXX compile features
+[0.620s] -- Detecting CXX compile features - done
+[0.620s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.791s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.043s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[1.052s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.293s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.297s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.297s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.300s] -- Added test 'lint_cmake' to check CMake code style
+[1.302s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.305s] -- Added test 'xmllint' to check XML markup files
+[1.310s] -- Configuring done (1.3s)
+[1.317s] -- Generating done (0.0s)
+[1.321s] -- Build files have been written to: /home/user/ros2_ws/build/diffbot_sim
+[1.329s] Invoked command in '/home/user/ros2_ws/build/diffbot_sim' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit5/diffbot_sim -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/diffbot_sim
+[1.330s] Invoking command in '/home/user/ros2_ws/build/diffbot_sim': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/diffbot_sim -- -j8 -l8
+[1.547s] Invoked command in '/home/user/ros2_ws/build/diffbot_sim' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/diffbot_sim -- -j8 -l8
+[1.589s] Invoking command in '/home/user/ros2_ws/build/diffbot_sim': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/diffbot_sim
+[1.624s] -- Install configuration: ""
+[1.625s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/launch
+[1.625s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/launch/diffbot_controllers.launch.py
+[1.626s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/launch/diffbot_spawn.launch.py
+[1.626s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/ament_index/resource_index/package_run_dependencies/diffbot_sim
+[1.626s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/ament_index/resource_index/parent_prefix_path/diffbot_sim
+[1.626s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/ament_prefix_path.sh
+[1.626s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/ament_prefix_path.dsv
+[1.626s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/path.sh
+[1.627s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/environment/path.dsv
+[1.627s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.bash
+[1.634s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.sh
+[1.635s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.zsh
+[1.635s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/local_setup.dsv
+[1.635s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/package.dsv
+[1.635s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/ament_index/resource_index/packages/diffbot_sim
+[1.636s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/cmake/diffbot_simConfig.cmake
+[1.636s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/cmake/diffbot_simConfig-version.cmake
+[1.636s] -- Installing: /home/user/ros2_ws/install/diffbot_sim/share/diffbot_sim/package.xml
+[1.639s] Invoked command in '/home/user/ros2_ws/build/diffbot_sim' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/diffbot_sim

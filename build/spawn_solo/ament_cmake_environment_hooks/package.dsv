@@ -1,0 +1,4 @@
+source;share/spawn_solo/local_setup.bash
+source;share/spawn_solo/local_setup.dsv
+source;share/spawn_solo/local_setup.sh
+source;share/spawn_solo/local_setup.zsh

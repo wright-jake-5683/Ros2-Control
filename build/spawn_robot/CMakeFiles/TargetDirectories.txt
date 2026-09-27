@@ -1,0 +1,9 @@
+/home/user/ros2_ws/build/spawn_robot/CMakeFiles/uninstall.dir
+/home/user/ros2_ws/build/spawn_robot/CMakeFiles/spawn_robot_uninstall.dir
+/home/user/ros2_ws/build/spawn_robot/CMakeFiles/test.dir
+/home/user/ros2_ws/build/spawn_robot/CMakeFiles/edit_cache.dir
+/home/user/ros2_ws/build/spawn_robot/CMakeFiles/rebuild_cache.dir
+/home/user/ros2_ws/build/spawn_robot/CMakeFiles/list_install_components.dir
+/home/user/ros2_ws/build/spawn_robot/CMakeFiles/install.dir
+/home/user/ros2_ws/build/spawn_robot/CMakeFiles/install/local.dir
+/home/user/ros2_ws/build/spawn_robot/CMakeFiles/install/strip.dir

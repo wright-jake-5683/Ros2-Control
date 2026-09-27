@@ -1,0 +1,6 @@
+Invoking command in '/home/user/ros2_ws/build/spawn_solo': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit6/spawn_solo -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/spawn_solo
+Invoked command in '/home/user/ros2_ws/build/spawn_solo' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit6/spawn_solo -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/spawn_solo
+Invoking command in '/home/user/ros2_ws/build/spawn_solo': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_solo -- -j8 -l8
+Invoked command in '/home/user/ros2_ws/build/spawn_solo' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_solo -- -j8 -l8
+Invoking command in '/home/user/ros2_ws/build/spawn_solo': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_solo
+Invoked command in '/home/user/ros2_ws/build/spawn_solo' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_solo

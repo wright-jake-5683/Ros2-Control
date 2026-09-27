@@ -1,0 +1,66 @@
+[0.045s] Invoking command in '/home/user/ros2_ws/build/rrbot_unit4': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit4/rrbot_unit4 -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/rrbot_unit4
+[1.040s] -- The C compiler identification is GNU 13.3.0
+[1.040s] -- The CXX compiler identification is GNU 13.3.0
+[1.041s] -- Detecting C compiler ABI info
+[1.041s] -- Detecting C compiler ABI info - done
+[1.041s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.041s] -- Detecting C compile features
+[1.041s] -- Detecting C compile features - done
+[1.041s] -- Detecting CXX compiler ABI info
+[1.041s] -- Detecting CXX compiler ABI info - done
+[1.041s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.042s] -- Detecting CXX compile features
+[1.042s] -- Detecting CXX compile features - done
+[1.042s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.042s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.223s] -- Found urdf: 2.10.0 (/opt/ros/jazzy/share/urdf/cmake)
+[1.351s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[1.389s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[1.397s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[1.499s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.545s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.594s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.635s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.889s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.900s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.969s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.127s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.127s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.148s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[2.154s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.167s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.186s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.800s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[3.050s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.055s] -- Added test 'lint_cmake' to check CMake code style
+[3.059s] -- Added test 'xmllint' to check XML markup files
+[3.063s] -- Configuring done (3.0s)
+[3.077s] -- Generating done (0.0s)
+[3.083s] -- Build files have been written to: /home/user/ros2_ws/build/rrbot_unit4
+[3.109s] Invoked command in '/home/user/ros2_ws/build/rrbot_unit4' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit4/rrbot_unit4 -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/rrbot_unit4
+[3.109s] Invoking command in '/home/user/ros2_ws/build/rrbot_unit4': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_unit4 -- -j8 -l8
+[3.312s] Invoked command in '/home/user/ros2_ws/build/rrbot_unit4' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_unit4 -- -j8 -l8
+[3.312s] Invoking command in '/home/user/ros2_ws/build/rrbot_unit4': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_unit4
+[3.522s] -- Install configuration: ""
+[3.525s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/ament_index/resource_index/package_run_dependencies/rrbot_unit4
+[3.525s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/ament_index/resource_index/parent_prefix_path/rrbot_unit4
+[3.526s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/environment/ament_prefix_path.sh
+[3.526s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/environment/ament_prefix_path.dsv
+[3.526s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/environment/path.sh
+[3.526s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/environment/path.dsv
+[3.526s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/local_setup.bash
+[3.526s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/local_setup.sh
+[3.526s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/local_setup.zsh
+[3.526s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/local_setup.dsv
+[3.527s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/package.dsv
+[3.527s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/ament_index/resource_index/packages/rrbot_unit4
+[3.527s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/cmake/rrbot_unit4Config.cmake
+[3.527s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/cmake/rrbot_unit4Config-version.cmake
+[3.527s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/package.xml
+[3.527s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/urdf
+[3.527s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/urdf/rrbot.xacro
+[3.528s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/urdf/materials.xacro
+[3.528s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/urdf/rrbot.gazebo
+[3.528s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/rviz
+[3.528s] -- Installing: /home/user/ros2_ws/install/rrbot_unit4/share/rrbot_unit4/rviz/unit4.rviz
+[3.554s] Invoked command in '/home/user/ros2_ws/build/rrbot_unit4' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_unit4

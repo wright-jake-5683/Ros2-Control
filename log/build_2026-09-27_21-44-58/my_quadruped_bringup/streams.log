@@ -1,0 +1,24 @@
+[0.873s] Invoking command in '/home/user/ros2_ws/build/my_quadruped_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_quadruped_bringup -- -j8 -l8
+[1.066s] Invoked command in '/home/user/ros2_ws/build/my_quadruped_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_quadruped_bringup -- -j8 -l8
+[1.071s] Invoking command in '/home/user/ros2_ws/build/my_quadruped_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_quadruped_bringup
+[1.168s] -- Install configuration: ""
+[1.168s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup//launch
+[1.168s] -- Installing: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup//launch/start_controllers.launch.py
+[1.168s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup//config
+[1.169s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup//config/solo8_controller_config.yaml
+[1.169s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/ament_index/resource_index/package_run_dependencies/my_quadruped_bringup
+[1.169s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/ament_index/resource_index/parent_prefix_path/my_quadruped_bringup
+[1.169s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/environment/ament_prefix_path.sh
+[1.169s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/environment/ament_prefix_path.dsv
+[1.169s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/environment/path.sh
+[1.169s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/environment/path.dsv
+[1.170s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/local_setup.bash
+[1.170s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/local_setup.sh
+[1.170s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/local_setup.zsh
+[1.171s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/local_setup.dsv
+[1.171s] -- Installing: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/package.dsv
+[1.171s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/ament_index/resource_index/packages/my_quadruped_bringup
+[1.171s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/cmake/my_quadruped_bringupConfig.cmake
+[1.171s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/cmake/my_quadruped_bringupConfig-version.cmake
+[1.171s] -- Up-to-date: /home/user/ros2_ws/install/my_quadruped_bringup/share/my_quadruped_bringup/package.xml
+[1.253s] Invoked command in '/home/user/ros2_ws/build/my_quadruped_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_quadruped_bringup

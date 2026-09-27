@@ -1,0 +1,74 @@
+[0.120s] Invoking command in '/home/user/ros2_ws/build/my_robot_hardware_interface': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/my_robot_hardware_interface -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/my_robot_hardware_interface
+[1.065s] -- The C compiler identification is GNU 13.3.0
+[1.065s] -- The CXX compiler identification is GNU 13.3.0
+[1.065s] -- Detecting C compiler ABI info
+[1.065s] -- Detecting C compiler ABI info - done
+[1.066s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.066s] -- Detecting C compile features
+[1.066s] -- Detecting C compile features - done
+[1.066s] -- Detecting CXX compiler ABI info
+[1.066s] -- Detecting CXX compiler ABI info - done
+[1.066s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.066s] -- Detecting CXX compile features
+[1.066s] -- Detecting CXX compile features - done
+[1.066s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.323s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.569s] -- Found hardware_interface: 4.39.2 (/opt/ros/jazzy/share/hardware_interface/cmake)
+[1.707s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.742s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.788s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.837s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.315s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.431s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.443s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.516s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.612s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.617s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.648s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[2.653s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.667s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.687s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.298s] -- Found ament_cmake_gtest: 2.5.4 (/opt/ros/jazzy/share/ament_cmake_gtest/cmake)
+[3.450s] -- Configuring done (3.3s)
+[3.515s] -- Generating done (0.0s)
+[3.524s] -- Build files have been written to: /home/user/ros2_ws/build/my_robot_hardware_interface
+[3.548s] Invoked command in '/home/user/ros2_ws/build/my_robot_hardware_interface' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/my_robot_hardware_interface -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/my_robot_hardware_interface
+[3.549s] Invoking command in '/home/user/ros2_ws/build/my_robot_hardware_interface': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_robot_hardware_interface -- -j8 -l8
+[4.143s] [ 50%] [32mBuilding CXX object CMakeFiles/my_robot_hardware_interface.dir/src/my_robot_hardware_interface.cpp.o[0m
+[11.820s] [100%] [32m[1mLinking CXX shared library libmy_robot_hardware_interface.so[0m
+[12.077s] [100%] Built target my_robot_hardware_interface
+[12.088s] Invoked command in '/home/user/ros2_ws/build/my_robot_hardware_interface' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_robot_hardware_interface -- -j8 -l8
+[12.089s] Invoking command in '/home/user/ros2_ws/build/my_robot_hardware_interface': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_robot_hardware_interface
+[12.098s] -- Install configuration: ""
+[12.099s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/my_robot_hardware_interface.xml
+[12.099s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/lib/libmy_robot_hardware_interface.so
+[12.101s] -- Set non-toolchain portion of runtime path of "/home/user/ros2_ws/install/my_robot_hardware_interface/lib/libmy_robot_hardware_interface.so" to ""
+[12.101s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/include
+[12.102s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/include/my_robot_hardware_interface
+[12.102s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/include/my_robot_hardware_interface/my_robot_hardware_interface.hpp
+[12.102s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface//launch
+[12.102s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface//launch/bring_up_on_hardware.launch.py
+[12.102s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface//config
+[12.103s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface//config/controller_configuration.yaml
+[12.103s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/environment/library_path.sh
+[12.103s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/environment/library_path.dsv
+[12.103s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/ament_index/resource_index/package_run_dependencies/my_robot_hardware_interface
+[12.103s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/ament_index/resource_index/parent_prefix_path/my_robot_hardware_interface
+[12.103s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/environment/ament_prefix_path.sh
+[12.104s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/environment/ament_prefix_path.dsv
+[12.104s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/environment/path.sh
+[12.104s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/environment/path.dsv
+[12.104s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/local_setup.bash
+[12.104s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/local_setup.sh
+[12.105s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/local_setup.zsh
+[12.105s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/local_setup.dsv
+[12.105s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/package.dsv
+[12.105s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/ament_index/resource_index/packages/my_robot_hardware_interface
+[12.106s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/my_robot_hardware_interface
+[12.106s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[12.107s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[12.107s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[12.107s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/cmake/my_robot_hardware_interfaceConfig.cmake
+[12.107s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/cmake/my_robot_hardware_interfaceConfig-version.cmake
+[12.108s] -- Installing: /home/user/ros2_ws/install/my_robot_hardware_interface/share/my_robot_hardware_interface/package.xml
+[12.109s] Invoked command in '/home/user/ros2_ws/build/my_robot_hardware_interface' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_robot_hardware_interface

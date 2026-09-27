@@ -1,0 +1,94 @@
+[0.012s] Invoking command in '/home/user/ros2_ws/build/solo_description': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit6/solo_description -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/solo_description
+[0.945s] -- The C compiler identification is GNU 13.3.0
+[0.945s] -- The CXX compiler identification is GNU 13.3.0
+[0.945s] -- Detecting C compiler ABI info
+[0.945s] -- Detecting C compiler ABI info - done
+[0.946s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.946s] -- Detecting C compile features
+[0.946s] -- Detecting C compile features - done
+[0.946s] -- Detecting CXX compiler ABI info
+[0.946s] -- Detecting CXX compiler ABI info - done
+[0.946s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.947s] -- Detecting CXX compile features
+[0.947s] -- Detecting CXX compile features - done
+[0.947s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.358s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.824s] -- Found urdf: 2.10.0 (/opt/ros/jazzy/share/urdf/cmake)
+[1.958s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.003s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[2.013s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[2.156s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.218s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.282s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.354s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.704s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.715s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.808s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.952s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.959s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[3.004s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[3.010s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[3.026s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[3.048s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.697s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[3.895s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.902s] -- Added test 'lint_cmake' to check CMake code style
+[3.915s] -- Added test 'xmllint' to check XML markup files
+[3.916s] -- Configuring done (3.9s)
+[3.920s] -- Generating done (0.0s)
+[3.925s] -- Build files have been written to: /home/user/ros2_ws/build/solo_description
+[3.950s] Invoked command in '/home/user/ros2_ws/build/solo_description' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit6/solo_description -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/solo_description
+[3.952s] Invoking command in '/home/user/ros2_ws/build/solo_description': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/solo_description -- -j8 -l8
+[4.006s] Invoked command in '/home/user/ros2_ws/build/solo_description' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/solo_description -- -j8 -l8
+[4.008s] Invoking command in '/home/user/ros2_ws/build/solo_description': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/solo_description
+[4.017s] -- Install configuration: ""
+[4.017s] -- Installing: /home/user/ros2_ws/install/solo_description/share/ament_index/resource_index/package_run_dependencies/solo_description
+[4.017s] -- Installing: /home/user/ros2_ws/install/solo_description/share/ament_index/resource_index/parent_prefix_path/solo_description
+[4.018s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/environment/ament_prefix_path.sh
+[4.018s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/environment/ament_prefix_path.dsv
+[4.018s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/environment/path.sh
+[4.019s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/environment/path.dsv
+[4.019s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/local_setup.bash
+[4.019s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/local_setup.sh
+[4.019s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/local_setup.zsh
+[4.020s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/local_setup.dsv
+[4.020s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/package.dsv
+[4.020s] -- Installing: /home/user/ros2_ws/install/solo_description/share/ament_index/resource_index/packages/solo_description
+[4.020s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/cmake/solo_descriptionConfig.cmake
+[4.021s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/cmake/solo_descriptionConfig-version.cmake
+[4.021s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/package.xml
+[4.021s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description
+[4.021s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo
+[4.021s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/leg.xacro
+[4.022s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes
+[4.022s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/hokuyo.dae
+[4.022s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl
+[4.022s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/without_foot
+[4.022s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/without_foot/solo_upper_leg_right_side.stl
+[4.023s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/without_foot/solo_lower_leg_left_side.stl
+[4.023s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/without_foot/solo_upper_leg_left_side.stl
+[4.023s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/without_foot/solo_body.stl
+[4.023s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/without_foot/solo_lower_leg_right_side.stl
+[4.023s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/with_foot
+[4.023s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/with_foot/solo_upper_leg_right_side.stl
+[4.024s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/with_foot/solo_lower_leg_left_side.stl
+[4.024s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/with_foot/solo_foot.stl
+[4.025s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/with_foot/solo_upper_leg_left_side.stl
+[4.025s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/with_foot/solo_body.stl
+[4.026s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/with_foot/solo_lower_leg_right_side.stl
+[4.027s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12
+[4.027s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12/solo12_lower_leg_left_side.stl
+[4.027s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12/solo12_lower_leg_right_side.stl
+[4.027s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12/solo12_hip_fe_fr.stl
+[4.028s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12/solo12_hip_fe_hl.stl
+[4.028s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12/solo12_upper_leg_right_side.stl
+[4.028s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12/solo_12_base.stl
+[4.029s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12/solo12_hip_fe_fl.stl
+[4.029s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12/solo12_hip_fe_hr.stl
+[4.030s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/meshes/stl/solo12/solo12_upper_leg_left_side.stl
+[4.030s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/solo_system_quadruped.ros2_control.xacro
+[4.030s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/solo/solo_quadruped.urdf.xacro
+[4.031s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/description/odri_solo_quadruped.urdf.xacro
+[4.031s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/rviz
+[4.031s] -- Installing: /home/user/ros2_ws/install/solo_description/share/solo_description/rviz/odri_solo_quadruped.rviz
+[4.033s] Invoked command in '/home/user/ros2_ws/build/solo_description' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/solo_description

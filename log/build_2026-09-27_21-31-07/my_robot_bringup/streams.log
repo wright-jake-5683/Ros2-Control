@@ -1,0 +1,67 @@
+[0.604s] Invoking command in '/home/user/ros2_ws/build/my_robot_bringup': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/my_robot_bringup
+[0.697s] -- The C compiler identification is GNU 13.3.0
+[0.788s] -- The CXX compiler identification is GNU 13.3.0
+[0.810s] -- Detecting C compiler ABI info
+[0.976s] -- Detecting C compiler ABI info - done
+[0.995s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.996s] -- Detecting C compile features
+[0.996s] -- Detecting C compile features - done
+[1.012s] -- Detecting CXX compiler ABI info
+[1.187s] -- Detecting CXX compiler ABI info - done
+[1.198s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.199s] -- Detecting CXX compile features
+[1.199s] -- Detecting CXX compile features - done
+[1.210s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.641s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.003s] -- Found urdf: 2.10.0 (/opt/ros/jazzy/share/urdf/cmake)
+[2.129s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.174s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[2.182s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[2.287s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.330s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.397s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.440s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.688s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.698s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.762s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.943s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.950s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.985s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[2.989s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[3.002s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[3.025s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.607s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[3.800s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.800s] -- Configured 'flake8' exclude dirs and/or files: 
+[3.802s] -- Added test 'lint_cmake' to check CMake code style
+[3.804s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.807s] -- Added test 'xmllint' to check XML markup files
+[3.812s] -- Configuring done (3.2s)
+[3.823s] -- Generating done (0.0s)
+[3.827s] -- Build files have been written to: /home/user/ros2_ws/build/my_robot_bringup
+[3.838s] Invoked command in '/home/user/ros2_ws/build/my_robot_bringup' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/my_robot_bringup
+[3.840s] Invoking command in '/home/user/ros2_ws/build/my_robot_bringup': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_robot_bringup -- -j8 -l8
+[3.932s] Invoked command in '/home/user/ros2_ws/build/my_robot_bringup' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_robot_bringup -- -j8 -l8
+[3.933s] Invoking command in '/home/user/ros2_ws/build/my_robot_bringup': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_robot_bringup
+[3.934s] -- Install configuration: ""
+[3.935s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch
+[3.935s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/rrbot_with_rrbot_controller.launch.py
+[3.938s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot.launch.py
+[3.938s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config
+[3.939s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config/controller_configuration.yaml
+[3.939s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+[3.939s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+[3.939s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+[3.940s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+[3.940s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+[3.940s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+[3.940s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+[3.941s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+[3.941s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+[3.941s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+[3.942s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+[3.942s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+[3.942s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+[3.942s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+[3.943s] -- Installing: /home/user/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml
+[3.970s] Invoked command in '/home/user/ros2_ws/build/my_robot_bringup' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_robot_bringup

@@ -1,0 +1,6 @@
+Invoking command in '/home/user/ros2_ws/build/dynamixel_sdk': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/dynamixel_sdk
+Invoked command in '/home/user/ros2_ws/build/dynamixel_sdk' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/dynamixel_sdk
+Invoking command in '/home/user/ros2_ws/build/dynamixel_sdk': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/dynamixel_sdk -- -j8 -l8
+Invoked command in '/home/user/ros2_ws/build/dynamixel_sdk' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/dynamixel_sdk -- -j8 -l8
+Invoking command in '/home/user/ros2_ws/build/dynamixel_sdk': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/dynamixel_sdk
+Invoked command in '/home/user/ros2_ws/build/dynamixel_sdk' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/dynamixel_sdk

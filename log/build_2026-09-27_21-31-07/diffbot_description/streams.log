@@ -1,0 +1,67 @@
+[0.036s] Invoking command in '/home/user/ros2_ws/build/diffbot_description': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit5/diffbot_description -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/diffbot_description
+[0.620s] -- The C compiler identification is GNU 13.3.0
+[0.620s] -- The CXX compiler identification is GNU 13.3.0
+[0.620s] -- Detecting C compiler ABI info
+[0.620s] -- Detecting C compiler ABI info - done
+[0.621s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.621s] -- Detecting C compile features
+[0.621s] -- Detecting C compile features - done
+[0.621s] -- Detecting CXX compiler ABI info
+[0.621s] -- Detecting CXX compiler ABI info - done
+[0.621s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.621s] -- Detecting CXX compile features
+[0.622s] -- Detecting CXX compile features - done
+[0.622s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.761s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.028s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[1.037s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[1.160s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.211s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.245s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.296s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.644s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.670s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.198s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.255s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[2.296s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.033s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[3.249s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.253s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.254s] -- Configured 'flake8' exclude dirs and/or files: 
+[3.255s] -- Added test 'lint_cmake' to check CMake code style
+[3.257s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.261s] -- Added test 'xmllint' to check XML markup files
+[3.270s] -- Configuring done (3.2s)
+[3.276s] -- Generating done (0.0s)
+[3.281s] -- Build files have been written to: /home/user/ros2_ws/build/diffbot_description
+[3.298s] Invoked command in '/home/user/ros2_ws/build/diffbot_description' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit5/diffbot_description -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/diffbot_description
+[3.302s] Invoking command in '/home/user/ros2_ws/build/diffbot_description': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/diffbot_description -- -j8 -l8
+[3.867s] Invoked command in '/home/user/ros2_ws/build/diffbot_description' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/diffbot_description -- -j8 -l8
+[3.868s] Invoking command in '/home/user/ros2_ws/build/diffbot_description': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/diffbot_description
+[3.941s] -- Install configuration: ""
+[3.941s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots
+[3.941s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/diffbot_description.urdf.xacro
+[3.942s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/diffbot.ros2_control.xacro
+[3.942s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/diffbot.gazebo.xacro
+[3.942s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/materials.xacro
+[3.942s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/diffbot.urdf.xacro
+[3.942s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/config
+[3.942s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/config/diffbot_config.rviz
+[3.942s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/launch
+[3.942s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/launch/diffbot_description.launch.py
+[3.943s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/ament_index/resource_index/package_run_dependencies/diffbot_description
+[3.943s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/ament_index/resource_index/parent_prefix_path/diffbot_description
+[3.943s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/environment/ament_prefix_path.sh
+[3.943s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/environment/ament_prefix_path.dsv
+[3.943s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/environment/path.sh
+[3.943s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/environment/path.dsv
+[3.943s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/local_setup.bash
+[3.943s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/local_setup.sh
+[3.943s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/local_setup.zsh
+[3.944s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/local_setup.dsv
+[3.944s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/package.dsv
+[3.944s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/ament_index/resource_index/packages/diffbot_description
+[3.944s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/cmake/diffbot_descriptionConfig.cmake
+[3.944s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/cmake/diffbot_descriptionConfig-version.cmake
+[3.944s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/package.xml
+[3.958s] Invoked command in '/home/user/ros2_ws/build/diffbot_description' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/diffbot_description

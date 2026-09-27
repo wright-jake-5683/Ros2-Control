@@ -1,0 +1,67 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found control_msgs: 5.5.0 (/opt/ros/jazzy/share/control_msgs/cmake)
+-- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found controller_interface: 4.39.2 (/opt/ros/jazzy/share/controller_interface/cmake)
+-- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+-- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+-- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+-- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+-- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+-- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found example_interfaces: 0.12.0 (/opt/ros/jazzy/share/example_interfaces/cmake)
+-- Configuring done (3.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/user/ros2_ws/build/rrbot_controller
+[ 50%] [32mBuilding CXX object CMakeFiles/rrbot_controller.dir/src/rrbot_controller.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library librrbot_controller.so[0m
+[100%] Built target rrbot_controller
+-- Install configuration: ""
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/rrbot_controller.xml
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/lib/librrbot_controller.so
+-- Set non-toolchain portion of runtime path of "/home/user/ros2_ws/install/rrbot_controller/lib/librrbot_controller.so" to ""
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/include
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/include/rrbot_controller
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/include/rrbot_controller/rrbot_controller.hpp
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller//config
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller//config/rrbot_controllers_custom.yaml
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/library_path.sh
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/library_path.dsv
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/ament_index/resource_index/package_run_dependencies/rrbot_controller
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/ament_index/resource_index/parent_prefix_path/rrbot_controller
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/ament_prefix_path.sh
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/ament_prefix_path.dsv
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/path.sh
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/environment/path.dsv
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/local_setup.bash
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/local_setup.sh
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/local_setup.zsh
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/local_setup.dsv
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/package.dsv
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/ament_index/resource_index/packages/rrbot_controller
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/ament_index/resource_index/controller_interface__pluginlib__plugin/rrbot_controller
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/rrbot_controllerConfig.cmake
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/cmake/rrbot_controllerConfig-version.cmake
+-- Installing: /home/user/ros2_ws/install/rrbot_controller/share/rrbot_controller/package.xml

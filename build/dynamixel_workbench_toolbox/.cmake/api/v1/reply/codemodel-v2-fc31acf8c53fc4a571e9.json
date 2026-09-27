@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-79b3f41334697893ba42.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "dynamixel_workbench_toolbox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dynamixel_workbench_toolbox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dynamixel_workbench_toolbox-252acf366bc564f55ec9.json",
+					"name" : "dynamixel_workbench_toolbox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dynamixel_workbench_toolbox_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dynamixel_workbench_toolbox_uninstall-54895023686b7847c8e0.json",
+					"name" : "dynamixel_workbench_toolbox_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-b6bb837a5ff08c9aa0d0.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/ros2_ws/build/dynamixel_workbench_toolbox",
+		"source" : "/home/user/ros2_ws/src/dynamixel-workbench/dynamixel_workbench_toolbox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

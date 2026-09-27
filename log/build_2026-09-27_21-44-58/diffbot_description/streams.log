@@ -1,0 +1,30 @@
+[0.115s] Invoking command in '/home/user/ros2_ws/build/diffbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/diffbot_description -- -j8 -l8
+[1.017s] Invoked command in '/home/user/ros2_ws/build/diffbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/diffbot_description -- -j8 -l8
+[1.018s] Invoking command in '/home/user/ros2_ws/build/diffbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/diffbot_description
+[1.084s] -- Install configuration: ""
+[1.084s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots
+[1.084s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/diffbot_description.urdf.xacro
+[1.085s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/diffbot.ros2_control.xacro
+[1.085s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/diffbot.gazebo.xacro
+[1.085s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/materials.xacro
+[1.085s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/robots/diffbot.urdf.xacro
+[1.086s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/config
+[1.086s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/config/diffbot_config.rviz
+[1.086s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/launch
+[1.086s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/launch/diffbot_description.launch.py
+[1.086s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/ament_index/resource_index/package_run_dependencies/diffbot_description
+[1.087s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/ament_index/resource_index/parent_prefix_path/diffbot_description
+[1.087s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/environment/ament_prefix_path.sh
+[1.087s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/environment/ament_prefix_path.dsv
+[1.087s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/environment/path.sh
+[1.087s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/environment/path.dsv
+[1.087s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/local_setup.bash
+[1.088s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/local_setup.sh
+[1.088s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/local_setup.zsh
+[1.088s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/local_setup.dsv
+[1.101s] -- Installing: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/package.dsv
+[1.102s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/ament_index/resource_index/packages/diffbot_description
+[1.103s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/cmake/diffbot_descriptionConfig.cmake
+[1.103s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/cmake/diffbot_descriptionConfig-version.cmake
+[1.103s] -- Up-to-date: /home/user/ros2_ws/install/diffbot_description/share/diffbot_description/package.xml
+[1.193s] Invoked command in '/home/user/ros2_ws/build/diffbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/diffbot_description

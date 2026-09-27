@@ -1,0 +1,27 @@
+[0.190s] Invoking command in '/home/user/ros2_ws/build/spawn_solo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_solo -- -j8 -l8
+[0.314s] Invoked command in '/home/user/ros2_ws/build/spawn_solo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_solo -- -j8 -l8
+[0.315s] Invoking command in '/home/user/ros2_ws/build/spawn_solo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_solo
+[0.380s] -- Install configuration: ""
+[0.380s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/launch
+[0.380s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/launch/spawn_solo.launch.py
+[0.380s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/launch/spawn_entity_client.py
+[0.380s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/worlds
+[0.381s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/worlds/empty.world
+[0.381s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/lib/spawn_solo/spawn_entity_client.py
+[0.381s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/spawn_solo.dsv
+[0.381s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/ament_index/resource_index/package_run_dependencies/spawn_solo
+[0.381s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/ament_index/resource_index/parent_prefix_path/spawn_solo
+[0.381s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/ament_prefix_path.sh
+[0.381s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/ament_prefix_path.dsv
+[0.381s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/path.sh
+[0.381s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/path.dsv
+[0.382s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/local_setup.bash
+[0.382s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/local_setup.sh
+[0.382s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/local_setup.zsh
+[0.382s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/local_setup.dsv
+[0.382s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/package.dsv
+[0.382s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/ament_index/resource_index/packages/spawn_solo
+[0.382s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/cmake/spawn_soloConfig.cmake
+[0.382s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/cmake/spawn_soloConfig-version.cmake
+[0.383s] -- Up-to-date: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/package.xml
+[0.434s] Invoked command in '/home/user/ros2_ws/build/spawn_solo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_solo

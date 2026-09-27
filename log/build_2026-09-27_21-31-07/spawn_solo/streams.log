@@ -1,0 +1,46 @@
+[0.054s] Invoking command in '/home/user/ros2_ws/build/spawn_solo': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit6/spawn_solo -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/spawn_solo
+[0.293s] -- The C compiler identification is GNU 13.3.0
+[0.513s] -- The CXX compiler identification is GNU 13.3.0
+[0.594s] -- Detecting C compiler ABI info
+[1.121s] -- Detecting C compiler ABI info - done
+[1.150s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.151s] -- Detecting C compile features
+[1.152s] -- Detecting C compile features - done
+[1.218s] -- Detecting CXX compiler ABI info
+[1.558s] -- Detecting CXX compiler ABI info - done
+[1.589s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.590s] -- Detecting CXX compile features
+[1.591s] -- Detecting CXX compile features - done
+[1.603s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.934s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.266s] -- Configuring done (2.2s)
+[2.271s] -- Generating done (0.0s)
+[2.274s] -- Build files have been written to: /home/user/ros2_ws/build/spawn_solo
+[2.285s] Invoked command in '/home/user/ros2_ws/build/spawn_solo' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit6/spawn_solo -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/spawn_solo
+[2.285s] Invoking command in '/home/user/ros2_ws/build/spawn_solo': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_solo -- -j8 -l8
+[2.369s] Invoked command in '/home/user/ros2_ws/build/spawn_solo' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_solo -- -j8 -l8
+[2.370s] Invoking command in '/home/user/ros2_ws/build/spawn_solo': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_solo
+[2.445s] -- Install configuration: ""
+[2.446s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/launch
+[2.446s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/launch/spawn_solo.launch.py
+[2.448s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/launch/spawn_entity_client.py
+[2.448s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/worlds
+[2.448s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/worlds/empty.world
+[2.448s] -- Installing: /home/user/ros2_ws/install/spawn_solo/lib/spawn_solo/spawn_entity_client.py
+[2.449s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/spawn_solo.dsv
+[2.449s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/ament_index/resource_index/package_run_dependencies/spawn_solo
+[2.449s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/ament_index/resource_index/parent_prefix_path/spawn_solo
+[2.449s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/ament_prefix_path.sh
+[2.449s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/ament_prefix_path.dsv
+[2.449s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/path.sh
+[2.449s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/environment/path.dsv
+[2.450s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/local_setup.bash
+[2.450s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/local_setup.sh
+[2.450s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/local_setup.zsh
+[2.450s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/local_setup.dsv
+[2.450s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/package.dsv
+[2.450s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/ament_index/resource_index/packages/spawn_solo
+[2.451s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/cmake/spawn_soloConfig.cmake
+[2.451s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/cmake/spawn_soloConfig-version.cmake
+[2.451s] -- Installing: /home/user/ros2_ws/install/spawn_solo/share/spawn_solo/package.xml
+[2.465s] Invoked command in '/home/user/ros2_ws/build/spawn_solo' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_solo

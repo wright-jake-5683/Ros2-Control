@@ -1,0 +1,26 @@
+[0.154s] Invoking command in '/home/user/ros2_ws/build/rrbot_unit3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_unit3 -- -j8 -l8
+[0.368s] Invoked command in '/home/user/ros2_ws/build/rrbot_unit3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_unit3 -- -j8 -l8
+[0.370s] Invoking command in '/home/user/ros2_ws/build/rrbot_unit3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_unit3
+[0.400s] -- Install configuration: ""
+[0.400s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/ament_index/resource_index/package_run_dependencies/rrbot_unit3
+[0.400s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/ament_index/resource_index/parent_prefix_path/rrbot_unit3
+[0.400s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/environment/ament_prefix_path.sh
+[0.400s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/environment/ament_prefix_path.dsv
+[0.400s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/environment/path.sh
+[0.401s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/environment/path.dsv
+[0.401s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/local_setup.bash
+[0.401s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/local_setup.sh
+[0.401s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/local_setup.zsh
+[0.401s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/local_setup.dsv
+[0.401s] -- Installing: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/package.dsv
+[0.401s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/ament_index/resource_index/packages/rrbot_unit3
+[0.402s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/cmake/rrbot_unit3Config.cmake
+[0.402s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/cmake/rrbot_unit3Config-version.cmake
+[0.402s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/package.xml
+[0.402s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/urdf
+[0.402s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/urdf/rrbot.xacro
+[0.402s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/urdf/materials.xacro
+[0.402s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/urdf/rrbot.gazebo
+[0.403s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/rviz
+[0.403s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit3/share/rrbot_unit3/rviz/unit3.rviz
+[0.474s] Invoked command in '/home/user/ros2_ws/build/rrbot_unit3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_unit3

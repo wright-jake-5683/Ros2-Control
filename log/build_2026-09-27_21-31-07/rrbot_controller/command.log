@@ -1,0 +1,6 @@
+Invoking command in '/home/user/ros2_ws/build/rrbot_controller': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/rrbot_controller -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/rrbot_controller
+Invoked command in '/home/user/ros2_ws/build/rrbot_controller' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/rrbot_controller -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/rrbot_controller
+Invoking command in '/home/user/ros2_ws/build/rrbot_controller': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_controller -- -j8 -l8
+Invoked command in '/home/user/ros2_ws/build/rrbot_controller' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_controller -- -j8 -l8
+Invoking command in '/home/user/ros2_ws/build/rrbot_controller': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_controller
+Invoked command in '/home/user/ros2_ws/build/rrbot_controller' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_controller

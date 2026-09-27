@@ -1,0 +1,47 @@
+[1.752s] Invoking command in '/home/user/ros2_ws/src/ros2_control_course/unit1/joint_trajectory_demo': PYTHONPATH=/home/user/ros2_ws/build/joint_trajectory_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/joint_trajectory_demo build --build-base /home/user/ros2_ws/build/joint_trajectory_demo/build install --record /home/user/ros2_ws/build/joint_trajectory_demo/install.log --single-version-externally-managed install_data
+[2.549s] running egg_info
+[2.550s] creating ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info
+[2.550s] writing ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/PKG-INFO
+[2.550s] writing dependency_links to ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/dependency_links.txt
+[2.550s] writing entry points to ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/entry_points.txt
+[2.550s] writing requirements to ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/requires.txt
+[2.551s] writing top-level names to ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/top_level.txt
+[2.551s] writing manifest file '../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/SOURCES.txt'
+[2.551s] reading manifest file '../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/SOURCES.txt'
+[2.551s] writing manifest file '../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info/SOURCES.txt'
+[2.551s] running build
+[2.551s] running build_py
+[2.551s] creating /home/user/ros2_ws/build/joint_trajectory_demo/build
+[2.552s] creating /home/user/ros2_ws/build/joint_trajectory_demo/build/lib
+[2.552s] creating /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo
+[2.553s] copying joint_trajectory_demo/publisher_forward_position_controller.py -> /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo
+[2.553s] copying joint_trajectory_demo/__init__.py -> /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo
+[2.553s] copying joint_trajectory_demo/publisher_joint_trajectory_controller.py -> /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo
+[2.553s] running install
+[2.553s] running install_lib
+[2.553s] creating /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo
+[2.553s] copying /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo/publisher_forward_position_controller.py -> /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo
+[2.553s] copying /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo/__init__.py -> /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo
+[2.554s] copying /home/user/ros2_ws/build/joint_trajectory_demo/build/lib/joint_trajectory_demo/publisher_joint_trajectory_controller.py -> /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo
+[2.554s] byte-compiling /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo/publisher_forward_position_controller.py to publisher_forward_position_controller.cpython-312.pyc
+[2.554s] byte-compiling /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo/__init__.py to __init__.cpython-312.pyc
+[2.554s] byte-compiling /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo/publisher_joint_trajectory_controller.py to publisher_joint_trajectory_controller.cpython-312.pyc
+[2.554s] running install_data
+[2.554s] creating /home/user/ros2_ws/install/joint_trajectory_demo/share/ament_index
+[2.555s] creating /home/user/ros2_ws/install/joint_trajectory_demo/share/ament_index/resource_index
+[2.555s] creating /home/user/ros2_ws/install/joint_trajectory_demo/share/ament_index/resource_index/packages
+[2.555s] copying resource/joint_trajectory_demo -> /home/user/ros2_ws/install/joint_trajectory_demo/share/ament_index/resource_index/packages
+[2.555s] copying package.xml -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo
+[2.555s] copying launch/test_joint_trajectory_controller.launch.py -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo
+[2.555s] copying launch/joint_trajectory_publisher.launch.py -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo
+[2.556s] copying launch/test_forward_position_controller.launch.py -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo
+[2.556s] creating /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo/config
+[2.556s] copying config/joint_trajectory_publisher.yaml -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo/config
+[2.556s] copying config/forward_position_publisher.yaml -> /home/user/ros2_ws/install/joint_trajectory_demo/share/joint_trajectory_demo/config
+[2.556s] running install_egg_info
+[2.556s] Copying ../../../../build/joint_trajectory_demo/joint_trajectory_demo.egg-info to /home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages/joint_trajectory_demo-0.0.1-py3.12.egg-info
+[2.556s] running install_scripts
+[2.703s] Installing publisher_forward_position_controller script to /home/user/ros2_ws/install/joint_trajectory_demo/lib/joint_trajectory_demo
+[2.704s] Installing publisher_joint_trajectory_controller script to /home/user/ros2_ws/install/joint_trajectory_demo/lib/joint_trajectory_demo
+[2.704s] writing list of installed files to '/home/user/ros2_ws/build/joint_trajectory_demo/install.log'
+[2.763s] Invoked command in '/home/user/ros2_ws/src/ros2_control_course/unit1/joint_trajectory_demo' returned '0': PYTHONPATH=/home/user/ros2_ws/build/joint_trajectory_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/joint_trajectory_demo/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/joint_trajectory_demo build --build-base /home/user/ros2_ws/build/joint_trajectory_demo/build install --record /home/user/ros2_ws/build/joint_trajectory_demo/install.log --single-version-externally-managed install_data

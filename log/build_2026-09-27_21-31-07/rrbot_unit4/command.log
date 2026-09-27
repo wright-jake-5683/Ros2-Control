@@ -1,0 +1,6 @@
+Invoking command in '/home/user/ros2_ws/build/rrbot_unit4': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit4/rrbot_unit4 -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/rrbot_unit4
+Invoked command in '/home/user/ros2_ws/build/rrbot_unit4' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit4/rrbot_unit4 -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/rrbot_unit4
+Invoking command in '/home/user/ros2_ws/build/rrbot_unit4': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_unit4 -- -j8 -l8
+Invoked command in '/home/user/ros2_ws/build/rrbot_unit4' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_unit4 -- -j8 -l8
+Invoking command in '/home/user/ros2_ws/build/rrbot_unit4': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_unit4
+Invoked command in '/home/user/ros2_ws/build/rrbot_unit4' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_unit4

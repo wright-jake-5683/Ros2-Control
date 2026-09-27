@@ -1,0 +1,22 @@
+[2.227s] Invoking command in '/home/user/ros2_ws/src/ros2_control_course/common/joint_trajectory_publisher': PYTHONPATH=/home/user/ros2_ws/build/joint_trajectory_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/joint_trajectory_publisher build --build-base /home/user/ros2_ws/build/joint_trajectory_publisher/build install --record /home/user/ros2_ws/build/joint_trajectory_publisher/install.log --single-version-externally-managed install_data
+[2.851s] running egg_info
+[2.899s] writing ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/PKG-INFO
+[2.899s] writing dependency_links to ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/dependency_links.txt
+[2.899s] writing entry points to ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/entry_points.txt
+[2.900s] writing requirements to ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/requires.txt
+[2.900s] writing top-level names to ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/top_level.txt
+[2.970s] reading manifest file '../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/SOURCES.txt'
+[2.972s] writing manifest file '../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/SOURCES.txt'
+[2.972s] running build
+[2.972s] running build_py
+[2.972s] running install
+[2.984s] running install_lib
+[3.020s] running install_data
+[3.021s] running install_egg_info
+[3.065s] removing '/home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher-0.0.1-py3.12.egg-info' (and everything under it)
+[3.066s] Copying ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info to /home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher-0.0.1-py3.12.egg-info
+[3.066s] running install_scripts
+[3.305s] Installing publisher_forward_position_controller script to /home/user/ros2_ws/install/joint_trajectory_publisher/lib/joint_trajectory_publisher
+[3.305s] Installing publisher_joint_trajectory_controller script to /home/user/ros2_ws/install/joint_trajectory_publisher/lib/joint_trajectory_publisher
+[3.306s] writing list of installed files to '/home/user/ros2_ws/build/joint_trajectory_publisher/install.log'
+[3.367s] Invoked command in '/home/user/ros2_ws/src/ros2_control_course/common/joint_trajectory_publisher' returned '0': PYTHONPATH=/home/user/ros2_ws/build/joint_trajectory_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/joint_trajectory_publisher build --build-base /home/user/ros2_ws/build/joint_trajectory_publisher/build install --record /home/user/ros2_ws/build/joint_trajectory_publisher/install.log --single-version-externally-managed install_data

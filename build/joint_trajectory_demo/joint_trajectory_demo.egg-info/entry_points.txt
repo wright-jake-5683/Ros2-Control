@@ -1,0 +1,3 @@
+[console_scripts]
+publisher_forward_position_controller = joint_trajectory_demo.publisher_forward_position_controller:main
+publisher_joint_trajectory_controller = joint_trajectory_demo.publisher_joint_trajectory_controller:main

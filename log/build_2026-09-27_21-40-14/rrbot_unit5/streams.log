@@ -1,0 +1,33 @@
+[0.224s] Invoking command in '/home/user/ros2_ws/build/rrbot_unit5': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_unit5 -- -j8 -l8
+[0.468s] Invoked command in '/home/user/ros2_ws/build/rrbot_unit5' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/rrbot_unit5 -- -j8 -l8
+[0.472s] Invoking command in '/home/user/ros2_ws/build/rrbot_unit5': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_unit5
+[0.497s] -- Install configuration: ""
+[0.497s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/ament_index/resource_index/package_run_dependencies/rrbot_unit5
+[0.498s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/ament_index/resource_index/parent_prefix_path/rrbot_unit5
+[0.498s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/environment/ament_prefix_path.sh
+[0.498s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/environment/ament_prefix_path.dsv
+[0.498s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/environment/path.sh
+[0.498s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/environment/path.dsv
+[0.498s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/local_setup.bash
+[0.499s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/local_setup.sh
+[0.499s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/local_setup.zsh
+[0.499s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/local_setup.dsv
+[0.499s] -- Installing: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/package.dsv
+[0.505s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/ament_index/resource_index/packages/rrbot_unit5
+[0.505s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/cmake/rrbot_unit5Config.cmake
+[0.506s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/cmake/rrbot_unit5Config-version.cmake
+[0.506s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/package.xml
+[0.506s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/config
+[0.507s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/config/diff_drive_controller_config.yaml
+[0.507s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/config/effort_controller_config.yaml
+[0.507s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/config/joint_trajectory_controller_config.yaml
+[0.507s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/config/velocity_controller_config.yaml
+[0.507s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/config/position_controller_config.yaml
+[0.507s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/config/forward_command_controller_config.yaml
+[0.508s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/urdf
+[0.508s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/urdf/rrbot.xacro
+[0.508s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/urdf/materials.xacro
+[0.508s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/urdf/rrbot.gazebo
+[0.508s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/rviz
+[0.508s] -- Up-to-date: /home/user/ros2_ws/install/rrbot_unit5/share/rrbot_unit5/rviz/unit5.rviz
+[0.606s] Invoked command in '/home/user/ros2_ws/build/rrbot_unit5' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/joint_trajectory_publisher:/home/user/ros2_ws/install/joint_trajectory_demo _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/rrbot_unit5

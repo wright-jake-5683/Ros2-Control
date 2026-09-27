@@ -1,0 +1,50 @@
+[1.710s] Invoking command in '/home/user/ros2_ws/src/ros2_control_course/common/joint_trajectory_publisher': PYTHONPATH=/home/user/ros2_ws/build/joint_trajectory_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/joint_trajectory_publisher build --build-base /home/user/ros2_ws/build/joint_trajectory_publisher/build install --record /home/user/ros2_ws/build/joint_trajectory_publisher/install.log --single-version-externally-managed install_data
+[2.231s] running egg_info
+[2.232s] creating ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info
+[2.281s] writing ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/PKG-INFO
+[2.281s] writing dependency_links to ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/dependency_links.txt
+[2.282s] writing entry points to ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/entry_points.txt
+[2.282s] writing requirements to ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/requires.txt
+[2.282s] writing top-level names to ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/top_level.txt
+[2.282s] writing manifest file '../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/SOURCES.txt'
+[2.355s] reading manifest file '../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/SOURCES.txt'
+[2.356s] writing manifest file '../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info/SOURCES.txt'
+[2.356s] running build
+[2.357s] running build_py
+[2.357s] creating /home/user/ros2_ws/build/joint_trajectory_publisher/build
+[2.357s] creating /home/user/ros2_ws/build/joint_trajectory_publisher/build/lib
+[2.357s] creating /home/user/ros2_ws/build/joint_trajectory_publisher/build/lib/joint_trajectory_publisher
+[2.358s] copying joint_trajectory_publisher/publisher_forward_position_controller.py -> /home/user/ros2_ws/build/joint_trajectory_publisher/build/lib/joint_trajectory_publisher
+[2.358s] copying joint_trajectory_publisher/__init__.py -> /home/user/ros2_ws/build/joint_trajectory_publisher/build/lib/joint_trajectory_publisher
+[2.359s] copying joint_trajectory_publisher/publisher_joint_trajectory_controller.py -> /home/user/ros2_ws/build/joint_trajectory_publisher/build/lib/joint_trajectory_publisher
+[2.359s] running install
+[2.370s] running install_lib
+[2.411s] creating /home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher
+[2.412s] copying /home/user/ros2_ws/build/joint_trajectory_publisher/build/lib/joint_trajectory_publisher/publisher_forward_position_controller.py -> /home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher
+[2.412s] copying /home/user/ros2_ws/build/joint_trajectory_publisher/build/lib/joint_trajectory_publisher/__init__.py -> /home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher
+[2.412s] copying /home/user/ros2_ws/build/joint_trajectory_publisher/build/lib/joint_trajectory_publisher/publisher_joint_trajectory_controller.py -> /home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher
+[2.413s] byte-compiling /home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher/publisher_forward_position_controller.py to publisher_forward_position_controller.cpython-312.pyc
+[2.414s] byte-compiling /home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher/__init__.py to __init__.cpython-312.pyc
+[2.414s] byte-compiling /home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher/publisher_joint_trajectory_controller.py to publisher_joint_trajectory_controller.cpython-312.pyc
+[2.417s] running install_data
+[2.417s] creating /home/user/ros2_ws/install/joint_trajectory_publisher/share/ament_index
+[2.418s] creating /home/user/ros2_ws/install/joint_trajectory_publisher/share/ament_index/resource_index
+[2.418s] creating /home/user/ros2_ws/install/joint_trajectory_publisher/share/ament_index/resource_index/packages
+[2.418s] copying resource/joint_trajectory_publisher -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/ament_index/resource_index/packages
+[2.419s] copying package.xml -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher
+[2.419s] copying launch/test_joint_trajectory_controller.launch.py -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher
+[2.420s] copying launch/joint_trajectory_publisher.launch.py -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher
+[2.420s] copying launch/test_forward_position_controller.launch.py -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher
+[2.421s] copying launch/joint_trajectory_solo_push-ups.launch.py -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher
+[2.421s] creating /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher/config
+[2.421s] copying config/joint_trajectory_publisher.yaml -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher/config
+[2.422s] copying config/lie_down_stand_up_publisher.yaml -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher/config
+[2.422s] copying config/forward_position_publisher.yaml -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher/config
+[2.423s] copying config/rrbot_wave_arm_trajectory.yaml -> /home/user/ros2_ws/install/joint_trajectory_publisher/share/joint_trajectory_publisher/config
+[2.423s] running install_egg_info
+[2.461s] Copying ../../../../build/joint_trajectory_publisher/joint_trajectory_publisher.egg-info to /home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages/joint_trajectory_publisher-0.0.1-py3.12.egg-info
+[2.462s] running install_scripts
+[2.691s] Installing publisher_forward_position_controller script to /home/user/ros2_ws/install/joint_trajectory_publisher/lib/joint_trajectory_publisher
+[2.691s] Installing publisher_joint_trajectory_controller script to /home/user/ros2_ws/install/joint_trajectory_publisher/lib/joint_trajectory_publisher
+[2.691s] writing list of installed files to '/home/user/ros2_ws/build/joint_trajectory_publisher/install.log'
+[2.734s] Invoked command in '/home/user/ros2_ws/src/ros2_control_course/common/joint_trajectory_publisher' returned '0': PYTHONPATH=/home/user/ros2_ws/build/joint_trajectory_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/joint_trajectory_publisher/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/joint_trajectory_publisher build --build-base /home/user/ros2_ws/build/joint_trajectory_publisher/build install --record /home/user/ros2_ws/build/joint_trajectory_publisher/install.log --single-version-externally-managed install_data

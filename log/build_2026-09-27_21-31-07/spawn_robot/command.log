@@ -1,0 +1,6 @@
+Invoking command in '/home/user/ros2_ws/build/spawn_robot': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit5/spawn_robot -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/spawn_robot
+Invoked command in '/home/user/ros2_ws/build/spawn_robot' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_control_course/unit5/spawn_robot -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/spawn_robot
+Invoking command in '/home/user/ros2_ws/build/spawn_robot': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_robot -- -j8 -l8
+Invoked command in '/home/user/ros2_ws/build/spawn_robot' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/spawn_robot -- -j8 -l8
+Invoking command in '/home/user/ros2_ws/build/spawn_robot': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_robot
+Invoked command in '/home/user/ros2_ws/build/spawn_robot' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/spawn_robot
